@@ -1,8 +1,8 @@
 {
 	"author": "J.Fechner",
-	"name": "WebAPK",
-	"short_name": "Chrome WebAPK",
-	"description": "Simple template for a chrome WebAPK.",
+	"name": "Talk Calendar",
+	"short_name": "Talk Calendar",
+	"description": "Simple template for WebAPK.",
 	"orientation": "portrait",
 	"start_url": "/WebAPK/",
 	"scope": "/WebAPK/",
